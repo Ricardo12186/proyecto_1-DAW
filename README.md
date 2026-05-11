@@ -3,7 +3,7 @@
 ## Team Members
 * [Ricardo Alonso Abrante]
 * [Jorge Luis Cáceres Gómez]
-* [Rodrigo García Delgado]
+* [Rodrigo García Delgado
 
 ## Selected Theme
 Our store will focus on selling **clothing and apparel**.
