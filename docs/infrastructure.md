@@ -25,4 +25,4 @@ We have configured two virtual machines using **Linux Mint** to separate the web
 ###  Project Architecture
 To understand how the data flows between the host, the web server, and the database, you can check the following diagram:
 
-[Diagrama de la arquitectura](img/diagrama-proyecto.png)
+![Diagrama de la arquitectura](./img/diagrama-proyecto.png)
