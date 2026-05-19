@@ -1,4 +1,4 @@
-# Proyecto 1-DAW: Web-Store Project
+# Proyecto 1-DAW: StyleHub Project
 
 ## Team Members
 * [Ricardo Alonso Abrante]
