@@ -8,17 +8,17 @@ We have configured two virtual machines using **Linux Mint** to separate the web
 *   **Operating System:** Linux Mint 21 (Vanessa)
 *   **Role:** Hosting the Python-based web server and Scraping scripts.
 *   **Resources:** 2048 MB RAM / 20 GB Disk.
-*   **Network:** NAT Network.
-*   **IP Address:** 10.0.2.15
-*   **User:** Admin
+*   **Network:** Bridge Network.
+*   **IP Address:** 10.109.99.2
+*   **User:** servidor-web
 
 ### 2. Database VM
 *   **Operating System:** Linux Mint 21 (Vanessa)
 *   **Role:** Hosting the PostgreSQL database.
 *   **Resources:** 2048 MB RAM / 20 GB Disk.
-*   **Network:** NAT Network.
-*   **IP Address:** 10.0.2.16
-*   **User:** Admin
+*   **Network:** Bridge Network.
+*   **IP Address:** 10.109.99.245
+*   **User:** servidor-bbdd
 
 ---
 
