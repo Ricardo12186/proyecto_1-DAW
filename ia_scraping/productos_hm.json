@@ -1,0 +1,187 @@
+{
+"source": {
+"site": "H&M España",
+"url": "https://www2.hm.com/es_es/hombre/compra-por-producto/camisetas-y-camisetas-de-tirantes.html",
+"category": "H&M Hombre - Camisetas y tops",
+"method": "IA con navegación web",
+"project": "StyleHub"
+},
+"products": [
+{
+"hm_code": "1344897001",
+"title": "Camiseta sin mangas en algodón Relaxed Fit Verde",
+"description": "Camiseta sin mangas para hombre confeccionada en algodón con corte relajado, procedente de H&M.",
+"price": 9.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/95/b7/95b77e80f83692e9354f5fc5ecdc6f6d0f6cc201.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1227155002",
+"title": "Camiseta sin mangas en canalé Slim Fit Negro",
+"description": "Camiseta clásica sin mangas de tejido en canalé con ajuste entallado, procedente de H&M.",
+"price": 9.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/bd/de/bdde6a4c28a8d11dfbe06b0bcaefdfc525f0a068.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1332131002",
+"title": "Pack de 3 camisetas sin mangas en canalé Slim Fit Blanco",
+"description": "Multipack que incluye tres camisetas básicas sin mangas en tejido de canalé y ajuste ceñido, procedente de H&M.",
+"price": 29.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/a2/7a/a27a421b9292e1069dfb4a4cb5c83b8b09fcf197.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1332131001",
+"title": "Pack de 3 camisetas sin mangas en canalé Slim Fit Negro",
+"description": "Lote de tres camisetas de tirantes ajustadas en color negro elaboradas en punto elástico de canalé, procedente de H&M.",
+"price": 29.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/3b/e8/3be81f9b3dfcdbbadcbca08d66ccb2ca559ad06e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1275976002",
+"title": "Camiseta sin mangas efecto lavado Regular Fit Gris",
+"description": "Camiseta sin mangas para hombre con un acabado de efecto desgastado y corte estándar, procedente de H&M.",
+"price": 12.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/35/0f/350fc461d31aa492193b2a2e88a0ca066ccad6e3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1276194001",
+"title": "Camiseta sin mangas Oversized Fit Negro Dorado",
+"description": "Camiseta de tirantes holgada de estilo urbano con detalles de color en contraste, procedente de H&M.",
+"price": 14.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/70/bd/70bd1feef86b8d4f0d36cae8d1ee17b88aa03310.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "0570033001",
+"title": "Camiseta sin mangas Regular Fit Negro",
+"description": "Camiseta de tirantes clásica e indispensable de corte recto y cómodo, procedente de H&M.",
+"price": 9.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/1e/4c/1e4c9eef1e687da6437d04ea7e6616212b1d6fcd.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1227155001",
+"title": "Camiseta sin mangas COOLMAX Regular Fit",
+"description": "Camiseta sin mangas técnica confeccionada con tejido transpirable COOLMAX, procedente de H&M.",
+"price": 12.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/0a/4b/0a4bcfcf9e2b192cd219e2bbbfcc77ee8df79014.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1344897002",
+"title": "Camiseta sin mangas en algodón Relaxed Fit Gris Claro",
+"description": "Prenda suelta y transpirable de algodón en tono gris claro jaspeado, procedente de H&M.",
+"price": 9.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/14/8a/148abfcb23bfa74bc056de984bfcc9eeed6fca2e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1344897003",
+"title": "Camiseta sin mangas en algodón Relaxed Fit Azul Marino",
+"description": "Camiseta de tirantes holgada para un estilo casual en color azul oscuro, procedente de H&M.",
+"price": 9.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/e0/2e/e02ebfdc5a3fa71bc056de984bc8faeaed6fc39e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+},
+{
+"hm_code": "1254891001",
+"title": "Camiseta de tirantes deportiva DryMove",
+"description": "Camiseta técnica sin mangas confeccionada en tejido DryMove que absorbe la humedad, procedente de H&M.",
+"price": 14.99,
+"currency": "EUR",
+"category": "H&M Hombre - Camisetas y tops",
+"image_url": "hm.com[/15/8e/158efbba13bfd74bc056de984bfcc9eeed6fcb3a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],jpgq[100]&call=url[file:/product/main]",
+"url_origin": "hm.com",
+"sizes": [
+{
+"size_name": "Única",
+"stock": 10
+}
+]
+}
+]
+}
